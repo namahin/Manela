@@ -485,8 +485,6 @@ h2.sec-title {
   flex-wrap: nowrap;
 }
 
-.hero-content {}
-
 .hero-content h1 {
   font-weight: 600;
   font-size: 64px;
@@ -539,8 +537,6 @@ h2.sec-title {
   background-color: #ffffff12;
 }
 
-.hero-content .hero-contact {}
-
 .hero-content .hero-contact .title {
   font-weight: 400;
   font-size: 14px;
@@ -560,8 +556,6 @@ h2.sec-title {
   padding: 80px 0;
   background-color: #FFFFFF;
 }
-
-.services-content {}
 
 .services-tab-area {
   display: flex;
