@@ -14,6 +14,9 @@ window.addEventListener('load', function () {
 });
 
 // 
+
+
+
 // 
 
 // Wait for the DOM content to load
@@ -36,7 +39,7 @@ document.addEventListener('DOMContentLoaded', function () {
             // Add the 'active' class to the clicked tab button
             button.classList.add('active');
             // Display the corresponding content item
-            tabContentItems[index].style.display = 'block';
+            tabContentItems[index].style.display = 'flex';
         });
     });
 
